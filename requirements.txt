@@ -1,0 +1,7 @@
+future==0.18.3
+lxml==5.1.0
+numpy==1.26.4
+opencv-contrib-python==4.7.0.72
+pioneer-sdk==0.5.3
+pymavlink==2.4.37
+pyserial==3.5
